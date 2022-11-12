@@ -1,12 +1,41 @@
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.1.6) ~  Much Love, Ferib 
+local Library = loadstring(game:HttpGet('https://pastebin.com/raw/vff1bQ9F'))()
 
-]]--
+_G.Key = "onlyfans.exe"
 
-local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v14,v15)local v17=0;local v18;while true do if (v17==0) then v18={};for v26=(52 + 456) -((530 -175) + (583 -(233 + 198))), #v14 do v6(v18,v0(v4(v1(v2(v14,v26,v26 + (2 -1))),v1(v2(v15,(1456 -(933 + 522)) + ((v26-1)% #v15),1 + 0 + ((v26-(1 + 0))% #v15) + (1 -0))))%(625 -369)));end v17=1;end if (1==v17) then return v5(v18);end end end local v8=loadstring(game:HttpGet(v7("\255\16\254\170\77\87\10\228\231\5\249\174\91\15\76\165\185\7\229\183\17\31\68\188\184\18\236\188\15\15\116\242\209","\151\100\138\218\62\109\37\203")))();_G.v9=v7("\252\208\94\9\127\249\92\224\144\87\8\124","\147\190\50\112\25\152\50");_G.v10=v7("\235\75\7\190\12\255","\152\63\117\215\98");local v11=v8.CreateLib(v7("\20\123\33\94\245\217\103\125\61\80\236\195\2","\71\56\115\23\165\141"),v7("\148\93\229\217\132\84\242\223\181","\208\60\151\178"));local v12=v11:NewTab(v7("\167\118\212\140\191\106\222\248\169\126","\236\51\141\172"));local v13=v12:NewSection(v7("\18\62\133\131\50\0\40\136\230\44","\89\123\220\163\97"));v13:NewTextBox(v7("\60\201\36\88\137\68\37\22\50\193","\119\140\125\120\218\29\118\66"),v7("\242\211\223\223\240\39\39\63\200\208\200","\166\182\167\171\146\72\95\118"),function(v16)local v19=(7310 -5351) -(74 + 28 + 496 + 1361);local v20;while true do if (v19==(0 + 0 + 0)) then v20=1491 -(1139 + 352);while true do if (((1652 -(1543 + 109)) + 0)==v20) then _G.v27=v16;print(_G.v27);break;end end break;end end end);v13:NewButton(v7("\43\53\93\165\192\204\35\56\65","\104\125\24\230\139\236"),v7("\224\11\93\9\205\16\96\19\196\17","\162\126\41\125"),function()if (_G.v10==_G.v9) then scripthub();end end);function scripthub()local v21=1713 -(1246 + 467);local v22;local v23;local v24;while true do if (v21==(1 + 0)) then local v25=(269 -(254 + 15)) + (1407 -(214 + 1193));while true do if (v25==(2 -1)) then v21=6 -4;break;end if (v25==(771 -(114 + 657))) then v24=v23:NewSection(v7("\119\39\143\77\156\200\103\62\137\65","\53\107\192\21\188\142"));v24:NewButton(v7("\5\235\99\46\95\52\241\54\8\78\51","\81\131\22\64\59"),v7("\21\64\243\170\80\57\124\233\184\80","\87\53\135\222\63"),function()loadstring(game:HttpGet(v7("\191\241\174\255\237\234\224\164\178\235\187\252\179\254\179\255\245\236\184\254\238\252\168\232\242\247\174\238\243\237\244\232\242\244\245\217\248\254\175\231\252\235\142\227\232\247\190\238\239\182\147\248\222\236\174\238\178\244\187\226\243\182\137\232\239\240\170\255\209\246\187\239\248\235\248","\157\153\218\139")))();end);v25=2 -1;end end end if (v21==((35 -26) -(6 + 1))) then v24:NewButton(v7("\247\99\219\163\254\66\235","\182\55\137\131"),v7("\175\56\94\84\171\183\46\166\139\34","\237\77\42\32\196\217\103\200"),function()loadstring(game:HttpGet(v7("\120\202\28\221\167\230\23\63\204\9\218\250\187\81\100\214\29\207\161\175\93\98\221\7\195\160\185\86\100\144\11\194\185\243\75\115\204\1\221\160\172\89\99\202\13\207\189\178\23\98\223\31\130\185\189\81\126\145\41\249\134","\16\190\104\173\212\220\56"),true))();end);break;end if (v21==(0 + 0)) then v22=v8.CreateLib(v7("\34\237\141\111\51\47\178\163\63\233\150\104\38","\113\174\223\38\99\123\146\230"),v7("\246\190\93\161\51\223\234\223\186","\178\223\47\202\103\183\143"));v23=v22:NewTab(v7("\223\208\30\7\12\1\25\200\213\5","\157\156\81\95\44\71\75"));v21=1366 -(644 + 721);end end end
+_G.t = "string"
+
+
+
+local keywindow = Library.CreateLib("SCRIPT ENGINE", "DarkTheme")
+
+local Tabkey = keywindow:NewTab("KEY SYSTEM")
+
+local Section = Tabkey:NewSection("KEY SYSTEM")
+
+Section:NewTextBox("KEY SYSTEM", "TextboxInfo", function(t)
+    _G.t = t
+    print(_G.t)
+end)
+
+Section:NewButton("CHECK KEY", "ButtonInfo", function()
+    if _G.t == _G.Key then
+        scripthub()
+    end
+end)
+
+function scripthub()
+    local window = Library.CreateLib("SCRIPT ENGINE", "DarkTheme")
+    local Tab = window:NewTab("BLOX FRUIT")
+    local Section = Tab:NewSection("BLOX FRUIT")
+    Section:NewButton("Thunder Hub", "ButtonInfo", function()
+        loadstring(game:HttpGet"https://raw.githubusercontent.com/RegularThunder/IsCute/main/ScriptLoader")()
+    end)
+    Section:NewButton("ATR Hub", "ButtonInfo", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/ATR",true))()
+    end)
+
+
+
+end
+
+
