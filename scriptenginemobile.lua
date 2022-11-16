@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet('https://pastebin.com/raw/vff1bQ9F'))()
 
-_G.Key = "amammeantm"
+_G.Key = "onlyfans.exe"
 
 _G.t = "string"
 
@@ -30,6 +30,10 @@ function scripthub()
     Section:NewButton("Thunder Hub", "ButtonInfo", function()
         loadstring(game:HttpGet"https://raw.githubusercontent.com/RegularThunder/IsCute/main/ScriptLoader")()
     end)
+    Section:NewButton("ATR Hub", "ButtonInfo", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/ATR",true))()
+    end)
+
+
+
 end
-
-
