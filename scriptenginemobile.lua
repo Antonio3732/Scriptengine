@@ -1,9 +1,8 @@
 local Library = loadstring(game:HttpGet('https://pastebin.com/raw/vff1bQ9F'))()
 
-_G.Key = "ciao"
+_G.Key = "amammeantm"
 
 _G.t = "string"
-
 
 
 local keywindow = Library.CreateLib("SCRIPT ENGINE", "DarkTheme")
