@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet('https://pastebin.com/raw/vff1bQ9F'))()
 
-_G.Key = "onlyfans.exe"
+_G.Key = "amammeantm"
 
 _G.t = "string"
 
@@ -27,13 +27,9 @@ function scripthub()
     local window = Library.CreateLib("SCRIPT ENGINE", "DarkTheme")
     local Tab = window:NewTab("BLOX FRUIT")
     local Section = Tab:NewSection("BLOX FRUIT")
-    Section:NewButton("Thunder Hub", "ButtonInfo", function()
-        loadstring(game:HttpGet"https://raw.githubusercontent.com/RegularThunder/IsCute/main/ScriptLoader")()
+    Section:NewButtonCrimsonHUB", "ButtonInfo", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/TirSANX/CrimsonHUB/main/C_Loader'))()
     end)
-    Section:NewButton("ATR Hub", "ButtonInfo", function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/ATR",true))()
-    end)
-
-
-
 end
+
+
